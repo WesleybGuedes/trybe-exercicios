@@ -40,6 +40,7 @@ if (age >= 18) {
 }
 
 
+
 let currentHour = 16;
 let message = "";
 
@@ -55,3 +56,5 @@ if (currentHour >= 22) {
   message = "Hmmm, cheiro de café recém-passado";
 }
 console.log(message);
+
+console.log(!(2 + 2) === 4);
