@@ -10,3 +10,4 @@ function somaArray(arrai) {
 
 const meuArray = [1, 2, 3, 4, 5];
 console.log(somaArray(meuArray));
+
